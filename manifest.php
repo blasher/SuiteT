@@ -58,7 +58,7 @@ $manifest = array (
   ),
   'readme' => '',
   'key' => 'ST',
-  'author' => 'Brian Lasherq',
+  'author' => 'Brian Lasher (me@brianlasher.com)',
   'description' => '',
   'icon' => '',
   'is_uninstallable' => true,
